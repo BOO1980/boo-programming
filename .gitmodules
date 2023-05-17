@@ -1,0 +1,3 @@
+[submodule "boo-java"]
+	path = boo-java
+	url = https://github.com/BOO1980/boo-java.git
